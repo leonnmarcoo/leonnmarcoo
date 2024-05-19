@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonnmarcoo
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: develaleonmarco@gmail.com
 
 <!---
