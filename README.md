@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leon Marco</h1>
 <h3 align="center">genius, billionaire, playboy, philanthropist</h3>
 
+![Tony Stark Daddy's Home](https://github.com/user-attachments/assets/7a05424e-281d-4793-b203-e92d85124a63)
+
 ## 🌐 Socials:
 <p align="center">
   <a href="https://facebook.com/leonmarco.devela">
@@ -87,7 +89,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=leonnmarcoo&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" style="border:none;" alt="Top Contributed Repo">
 </p>
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRlNzBpMmZ2c3k4YzNvcWw5bDU3bGsxcGp3MHgyMGgwYjM1bnI3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif
+![Tony Stark Ovaries GIF (1)](https://github.com/user-attachments/assets/6137f4e0-b757-4b7a-bbad-71f21c470f1e)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=leonnmarcoo&icon=8&color=0)](https://visitcount.itsvg.in)
