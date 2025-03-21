@@ -48,23 +48,18 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
   </a>
-  <!-- Affinity Photo (full‑color PNG from SeekLogo) -->
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/f/f5/Affinity_Photo_V2_icon.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Affinity_Photo_V2_icon.svg" alt="Affinity Photo" width="42" height="42" />
   </a>
-  <!-- Affinity Designer (full‑color PNG from SeekLogo) -->
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Affinity_Designer_2-logo.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Affinity_Designer_2-logo.svg" alt="Affinity Designer" width="42" height="42" />
   </a>
-  <!-- Notion (full‑color PNG from SeekLogo) -->
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="42" height="42" />
   </a>
-  <!-- Procreate (full‑color PNG from SeekLogo) -->
-  <a target="_blank" href="https://seeklogo.com/images/P/procreate-logo-95ED9FEA86-seeklogo.com.png">
-    <img src="https://seeklogo.com/images/P/procreate-logo-95ED9FEA86-seeklogo.com.png" alt="Procreate" width="42" height="42" />
+  <a target="_blank" href="https://e7.pngegg.com/pngimages/714/677/png-clipart-computer-software-drawing-innovative-buttons-computer-computer-wallpaper-thumbnail.png">
+    <img src="https://e7.pngegg.com/pngimages/714/677/png-clipart-computer-software-drawing-innovative-buttons-computer-computer-wallpaper-thumbnail.png" alt="Procreate" width="42" height="42" />
   </a>
-  <!-- Aseprite (full‑color PNG from SeekLogo) -->
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="Aseprite" width="42" height="42" />
   </a>
