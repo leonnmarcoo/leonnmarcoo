@@ -2,7 +2,7 @@
 <h3 align="center">genius, billionaire, playboy, philanthropist</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a05424e-281d-4793-b203-e92d85124a63" alt="Tony Stark Daddy's Home">
+  <img src="https://github.com/user-attachments/assets/4fe1d16c-4458-43bd-baf0-c12456a3b0a4" alt="Tony and His Family">
 </p>
 
 ## 🌐 Socials:
@@ -67,6 +67,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8413e475-03e1-4512-a589-eecd62fae6b7" alt="Iron Man Maestro GIF (1)">
+</p>
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonnmarcoo&theme=radical&hide_border=true&include_all_commits=false&count_private=false">
@@ -74,6 +78,10 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=leonnmarcoo&theme=radical&hide_border=true">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnmarcoo&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6137f4e0-b757-4b7a-bbad-71f21c470f1e" alt="Tony Stark Ovaries GIF (1)">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -92,7 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6137f4e0-b757-4b7a-bbad-71f21c470f1e" alt="Tony Stark Ovaries GIF (1)">
+  <img src="https://github.com/user-attachments/assets/5394331d-0943-413c-b817-94c19fe2ded7" alt="Iron Man Kiss GIF (1)">
 </p>
 
 ---
