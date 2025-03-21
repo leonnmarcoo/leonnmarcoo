@@ -57,27 +57,12 @@
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://e7.pngegg.com/pngimages/714/677/png-clipart-computer-software-drawing-innovative-buttons-computer-computer-wallpaper-thumbnail.png">
-    <img src="https://e7.pngegg.com/pngimages/714/677/png-clipart-computer-software-drawing-innovative-buttons-computer-computer-wallpaper-thumbnail.png" alt="Procreate" width="42" height="42" />
+  <a target="_blank" href="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Symbol.png">
+    <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Symbol.png" alt="Procreate" width="42" height="42" />
   </a>
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="Aseprite" width="42" height="42" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white" alt="Affinity Designer">
-  <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white" alt="Affinity Photo">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue" alt="Framer">
-  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E" alt="Aseprite">
 </p>
 
 ## 📊 GitHub Stats:
