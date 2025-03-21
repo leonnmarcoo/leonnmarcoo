@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon Marco</h1>
 <h3 align="center">I'm a Computer Science student specializing in Machine Learning, but my heart lies in frontend development and UI/UX design. I might only know Java and a bit of Python, but when it comes to designing, I'm a Figma expert!</h3>
 
-🔭 I’m currently working on Infinity Quest<br>🌱 I’m currently learning Web Development<br>💬 Ask me about UI/UX Design<br>📫 How to reach me: develaleonmarco@gmail.com<br>⚡ Fun fact: The reason I took the tech path is because of Tony Stark
+🔭 I’m currently working on Infinity Quest<br>🌱 I’m currently learning Web Development<br>💬 Ask me about UI/UX Design<br>⚡ Fun fact: The reason I took the tech path is because of Tony Stark
 
 ## 🌐 Socials:
 <p align="center">
@@ -48,25 +48,35 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
   </a>
-    <!-- Affinity Photo -->
-  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2021/05/affinity-photo-logo.png">
-    <img src="https://logodownload.org/wp-content/uploads/2021/05/affinity-photo-logo.png" alt="Affinity Photo" width="42" height="42" />
+  <!-- Affinity Photo -->
+  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinityphoto.svg">
+    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinityphoto.svg" alt="Affinity Photo" width="42" height="42" />
+    </span>
   </a>
   <!-- Affinity Designer -->
-  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2021/05/affinity-designer-logo.png">
-    <img src="https://logodownload.org/wp-content/uploads/2021/05/affinity-designer-logo.png" alt="Affinity Designer" width="42" height="42" />
+  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinitydesigner.svg">
+    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinitydesigner.svg" alt="Affinity Designer" width="42" height="42" />
+    </span>
   </a>
   <!-- Notion -->
-  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2020/10/notion-logo.png">
-    <img src="https://logodownload.org/wp-content/uploads/2020/10/notion-logo.png" alt="Notion" width="42" height="42" />
+  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg">
+    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" alt="Notion" width="42" height="42" />
+    </span>
   </a>
   <!-- Procreate -->
-  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2019/04/procreate-logo.png">
-    <img src="https://logodownload.org/wp-content/uploads/2019/04/procreate-logo.png" alt="Procreate" width="42" height="42" />
+  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/procreate.svg">
+    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/procreate.svg" alt="Procreate" width="42" height="42" />
+    </span>
   </a>
   <!-- Aseprite -->
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png" alt="Aseprite" width="42" height="42" />
+  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aseprite.svg">
+    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aseprite.svg" alt="Aseprite" width="42" height="42" />
+    </span>
   </a>
 </p>
 
