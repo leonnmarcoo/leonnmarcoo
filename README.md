@@ -49,13 +49,13 @@
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
   </a>
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Affinity_Photo_icon.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Affinity_Photo_icon.svg" alt="Affinity Photo" width="42" height="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Affinity_Photo_icon.svg" alt="Affinity Photo" width="42" height="42" onerror="this.onerror=null; this.src='fallback-affinity-photo.png';" />
   </a>
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/6/60/Affinity_Designer_icon.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Affinity_Designer_icon.svg" alt="Affinity Designer" width="42" height="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Affinity_Designer_icon.svg" alt="Affinity Designer" width="42" height="42" onerror="this.onerror=null; this.src='fallback-affinity-designer.png';" />
   </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png" alt="Aseprite" width="42" height="42" />
+  <a target="_blank" href="https://www.svgrepo.com/download/329985/aseprite.svg">
+    <img src="https://www.svgrepo.com/download/329985/aseprite.svg" alt="Aseprite" width="42" height="42" onerror="this.onerror=null; this.src='fallback-aseprite.png';" />
   </a>
 </p>
 
