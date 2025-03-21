@@ -48,21 +48,21 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
   </a>
-<!-- Affinity Photo -->
-  <a target="_blank" href="https://www.svgrepo.com/download/317715/affinity-photo.svg">
-    <img src="https://www.svgrepo.com/download/317715/affinity-photo.svg" alt="Affinity Photo" width="42" height="42" onerror="this.onerror=null; this.src='fallback-affinity-photo.png';" />
+  <!-- Affinity Photo -->
+  <a target="_blank" href="https://simpleicons.org/icons/affinityphoto.svg">
+    <img src="https://cdn.simpleicons.org/affinityphoto" alt="Affinity Photo" width="42" height="42" />
   </a>
   <!-- Affinity Designer -->
-  <a target="_blank" href="https://www.svgrepo.com/download/317718/affinity-designer.svg">
-    <img src="https://www.svgrepo.com/download/317718/affinity-designer.svg" alt="Affinity Designer" width="42" height="42" onerror="this.onerror=null; this.src='fallback-affinity-designer.png';" />
+  <a target="_blank" href="https://simpleicons.org/icons/affinitydesigner.svg">
+    <img src="https://cdn.simpleicons.org/affinitydesigner" alt="Affinity Designer" width="42" height="42" />
   </a>
   <!-- Notion -->
-  <a target="_blank" href="https://www.svgrepo.com/download/303547/notion-logo.svg">
-    <img src="https://www.svgrepo.com/download/303547/notion-logo.svg" alt="Notion" width="42" height="42" onerror="this.onerror=null; this.src='fallback-notion.png';" />
+  <a target="_blank" href="https://simpleicons.org/icons/notion.svg">
+    <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="42" height="42" />
   </a>
   <!-- Procreate -->
-  <a target="_blank" href="https://www.svgrepo.com/download/354334/procreate.svg">
-    <img src="https://www.svgrepo.com/download/354334/procreate.svg" alt="Procreate" width="42" height="42" onerror="this.onerror=null; this.src='fallback-procreate.png';" />
+  <a target="_blank" href="https://simpleicons.org/icons/procreate.svg">
+    <img src="https://cdn.simpleicons.org/procreate" alt="Procreate" width="42" height="42" />
   </a>
   <a target="_blank" href="https://www.svgrepo.com/download/329985/aseprite.svg">
     <img src="https://www.svgrepo.com/download/329985/aseprite.svg" alt="Aseprite" width="42" height="42" onerror="this.onerror=null; this.src='fallback-aseprite.png';" />
