@@ -57,8 +57,8 @@
     <img src="https://seeklogo.com/images/A/affinity-designer-logo-DBCFBFED73-seeklogo.com.png" alt="Affinity Designer" width="42" height="42" />
   </a>
   <!-- Notion (full‑color PNG from SeekLogo) -->
-  <a target="_blank" href="https://seeklogo.com/images/N/notion-logo-0F5C675C11-seeklogo.com.png">
-    <img src="https://seeklogo.com/images/N/notion-logo-0F5C675C11-seeklogo.com.png" alt="Notion" width="42" height="42" />
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="42" height="42" />
   </a>
   <!-- Procreate (full‑color PNG from SeekLogo) -->
   <a target="_blank" href="https://seeklogo.com/images/P/procreate-logo-95ED9FEA86-seeklogo.com.png">
