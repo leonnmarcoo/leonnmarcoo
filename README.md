@@ -48,35 +48,25 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
   </a>
-  <!-- Affinity Photo -->
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinityphoto.svg">
-    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinityphoto.svg" alt="Affinity Photo" width="42" height="42" />
-    </span>
+  <!-- Affinity Photo (full‑color PNG from SeekLogo) -->
+  <a target="_blank" href="https://seeklogo.com/images/A/affinity-photo-logo-7F63570E1D-seeklogo.com.png">
+    <img src="https://seeklogo.com/images/A/affinity-photo-logo-7F63570E1D-seeklogo.com.png" alt="Affinity Photo" width="42" height="42" />
   </a>
-  <!-- Affinity Designer -->
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinitydesigner.svg">
-    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/affinitydesigner.svg" alt="Affinity Designer" width="42" height="42" />
-    </span>
+  <!-- Affinity Designer (full‑color PNG from SeekLogo) -->
+  <a target="_blank" href="https://seeklogo.com/images/A/affinity-designer-logo-DBCFBFED73-seeklogo.com.png">
+    <img src="https://seeklogo.com/images/A/affinity-designer-logo-DBCFBFED73-seeklogo.com.png" alt="Affinity Designer" width="42" height="42" />
   </a>
-  <!-- Notion -->
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg">
-    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" alt="Notion" width="42" height="42" />
-    </span>
+  <!-- Notion (full‑color PNG from SeekLogo) -->
+  <a target="_blank" href="https://seeklogo.com/images/N/notion-logo-0F5C675C11-seeklogo.com.png">
+    <img src="https://seeklogo.com/images/N/notion-logo-0F5C675C11-seeklogo.com.png" alt="Notion" width="42" height="42" />
   </a>
-  <!-- Procreate -->
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/procreate.svg">
-    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/procreate.svg" alt="Procreate" width="42" height="42" />
-    </span>
+  <!-- Procreate (full‑color PNG from SeekLogo) -->
+  <a target="_blank" href="https://seeklogo.com/images/P/procreate-logo-95ED9FEA86-seeklogo.com.png">
+    <img src="https://seeklogo.com/images/P/procreate-logo-95ED9FEA86-seeklogo.com.png" alt="Procreate" width="42" height="42" />
   </a>
-  <!-- Aseprite -->
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aseprite.svg">
-    <span style="background:#f0f0f0; border-radius:4px; padding:4px; display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aseprite.svg" alt="Aseprite" width="42" height="42" />
-    </span>
+  <!-- Aseprite (full‑color PNG from SeekLogo) -->
+  <a target="_blank" href="https://seeklogo.com/images/A/aseprite-logo-3A53C5F81D-seeklogo.com.png">
+    <img src="https://seeklogo.com/images/A/aseprite-logo-3A53C5F81D-seeklogo.com.png" alt="Aseprite" width="42" height="42" />
   </a>
 </p>
 
