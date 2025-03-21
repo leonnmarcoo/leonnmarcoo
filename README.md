@@ -48,24 +48,25 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
   </a>
-  <!-- Affinity Photo -->
-  <a target="_blank" href="https://simpleicons.org/icons/affinityphoto.svg">
-    <img src="https://cdn.simpleicons.org/affinityphoto" alt="Affinity Photo" width="42" height="42" />
+    <!-- Affinity Photo -->
+  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2021/05/affinity-photo-logo.png">
+    <img src="https://logodownload.org/wp-content/uploads/2021/05/affinity-photo-logo.png" alt="Affinity Photo" width="42" height="42" />
   </a>
   <!-- Affinity Designer -->
-  <a target="_blank" href="https://simpleicons.org/icons/affinitydesigner.svg">
-    <img src="https://cdn.simpleicons.org/affinitydesigner" alt="Affinity Designer" width="42" height="42" />
+  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2021/05/affinity-designer-logo.png">
+    <img src="https://logodownload.org/wp-content/uploads/2021/05/affinity-designer-logo.png" alt="Affinity Designer" width="42" height="42" />
   </a>
   <!-- Notion -->
-  <a target="_blank" href="https://simpleicons.org/icons/notion.svg">
-    <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="42" height="42" />
+  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2020/10/notion-logo.png">
+    <img src="https://logodownload.org/wp-content/uploads/2020/10/notion-logo.png" alt="Notion" width="42" height="42" />
   </a>
   <!-- Procreate -->
-  <a target="_blank" href="https://simpleicons.org/icons/procreate.svg">
-    <img src="https://cdn.simpleicons.org/procreate" alt="Procreate" width="42" height="42" />
+  <a target="_blank" href="https://logodownload.org/wp-content/uploads/2019/04/procreate-logo.png">
+    <img src="https://logodownload.org/wp-content/uploads/2019/04/procreate-logo.png" alt="Procreate" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.svgrepo.com/download/329985/aseprite.svg">
-    <img src="https://www.svgrepo.com/download/329985/aseprite.svg" alt="Aseprite" width="42" height="42" onerror="this.onerror=null; this.src='fallback-aseprite.png';" />
+  <!-- Aseprite -->
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png" alt="Aseprite" width="42" height="42" />
   </a>
 </p>
 
