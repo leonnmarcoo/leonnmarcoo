@@ -24,6 +24,42 @@
 
 ## 💻 Tech Stack:
 <p align="center">
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Affinity_Photo_icon.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Affinity_Photo_icon.svg" alt="Affinity Photo" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/6/60/Affinity_Designer_icon.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Affinity_Designer_icon.svg" alt="Affinity Designer" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png" alt="Aseprite" width="42" height="42" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -61,47 +97,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=leonnmarcoo&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </p>
-
-<h2 align="center">💻 Tech Stack</h2>
-<p align="center">
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/6/60/Affinity_Designer_icon.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Affinity_Designer_icon.svg" alt="Affinity Designer" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Affinity_Photo_icon.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Affinity_Photo_icon.svg" alt="Affinity Photo" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo.svg" alt="Canva" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Aseprite_Logo.png" alt="Aseprite" width="42" height="42" />
-  </a>
-</p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leonnmarcoo&icon=8&color=0)](https://visitcount.itsvg.in)
