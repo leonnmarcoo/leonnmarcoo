@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leon Marco</h1>
-<h3 align="center">I'm a Computer Science student specializing in Machine Learning, but my heart lies in frontend development and UI/UX design. I might only know Java and a bit of Python, but when it comes to designing, I'm a Figma expert!</h3>
-
+<h3 align="center">genius, billionaire, playboy, philanthropist</h3>
+---
 🔭 I’m currently working on Infinity Quest<br>🌱 I’m currently learning Web Development<br>💬 Ask me about UI/UX Design<br>⚡ Fun fact: The reason I took the tech path is because of Tony Stark
 
 ## 🌐 Socials:
