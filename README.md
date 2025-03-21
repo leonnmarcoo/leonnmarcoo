@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leon Marco</h1>
 <h3 align="center">genius, billionaire, playboy, philanthropist</h3>
----
-🔭 I’m currently working on Infinity Quest<br>🌱 I’m currently learning Web Development<br>💬 Ask me about UI/UX Design<br>⚡ Fun fact: The reason I took the tech path is because of Tony Stark
 
 ## 🌐 Socials:
 <p align="center">
@@ -88,6 +86,12 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=leonnmarcoo&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </p>
+
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=leonnmarcoo&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" style="border:none;" alt="Top Contributed Repo">
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leonnmarcoo&icon=8&color=0)](https://visitcount.itsvg.in)
