@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Leon Marco</h1>
+
 🔭 I’m currently working on Infinity Quest<br>🌱 I’m currently learning Web Development<br>💬 Ask me about UI/UX Design<br>📫 How to reach me develaleonmarco@gmail.com<br>⚡ Fun fact The reason I took the tech path is because of Tony Stark
 
 
