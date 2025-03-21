@@ -84,14 +84,10 @@
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=leonnmarcoo&limit=5&theme=radical&combine_all_yearly_contributions=true">
-</p>
-
-## 🔝 Top Contributed Repo
-<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=leonnmarcoo&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" style="border:none;" alt="Top Contributed Repo">
 </p>
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRlNzBpMmZ2c3k4YzNvcWw5bDU3bGsxcGp3MHgyMGgwYjM1bnI3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leonnmarcoo&icon=8&color=0)](https://visitcount.itsvg.in)
