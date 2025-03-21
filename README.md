@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leon Marco</h1>
+<h3 align="center">I'm a Computer Science student specializing in Machine Learning, but my heart lies in frontend development and UI/UX design. I might only know Java and a bit of Python, but when it comes to designing, I'm a Figma expert!</h3>
 
 🔭 I’m currently working on Infinity Quest<br>🌱 I’m currently learning Web Development<br>💬 Ask me about UI/UX Design<br>📫 How to reach me develaleonmarco@gmail.com<br>⚡ Fun fact The reason I took the tech path is because of Tony Stark
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leonmarco.devela) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonmarco__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leon-marco-devela-ba861026b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leonmarco__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:develaleonmarco@gmail.com) 
 
 # 💻 Tech Stack:
@@ -13,13 +14,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=leonnmarcoo&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonnmarcoo&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leonnmarcoo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=leonnmarcoo&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
