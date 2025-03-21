@@ -57,8 +57,8 @@
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Symbol.png">
-    <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Symbol.png" alt="Procreate" width="42" height="42" />
+  <a target="_blank" href="https://i.namu.wiki/i/12DdQXpHHSrKeNkMI53ujhwl_rdVt0egw_9QtXqk0_1_Cds0hJQvCFgqFjPTGVY3J1x3OrJhY0HoZr-iaLPWZg.webp">
+    <img src="https://i.namu.wiki/i/12DdQXpHHSrKeNkMI53ujhwl_rdVt0egw_9QtXqk0_1_Cds0hJQvCFgqFjPTGVY3J1x3OrJhY0HoZr-iaLPWZg.webp" alt="Procreate" width="42" height="42" />
   </a>
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="Aseprite" width="42" height="42" />
