@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/4fe1d16c-4458-43bd-baf0-c12456a3b0a4" alt="Tony and His Family">
 </p>
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 <p align="center">
   <a href="https://facebook.com/leonmarco.devela">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## 💻 Tech Stack:
+## 💻 Tools & Languages:
 <p align="center">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
