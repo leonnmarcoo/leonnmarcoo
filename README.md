@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leon Marco</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leon Marco</h1>
 <h3 align="center">genius, billionaire, playboy, philanthropist</h3>
 
 <p align="center">
@@ -104,8 +104,15 @@
 </p>
 
 ## 🐍 Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake.svg" />
-</picture>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake.svg" />
+  </picture>
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1MwnwxYu69cNq/giphy.gif?cid=ecf05e47lvcm7yk2qeo8isyzt3difea026go62an7ynd2fz1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Iron Man Kiss GIF (1)">
+</p>
