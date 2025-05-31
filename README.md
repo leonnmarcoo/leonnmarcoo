@@ -103,4 +103,9 @@
   <img src="https://github.com/user-attachments/assets/5394331d-0943-413c-b817-94c19fe2ded7" alt="Iron Man Kiss GIF (1)">
 </p>
 
----
+## 🐍 Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/leonnmarcoo/leonnmarcoo/output/github-snake.svg" />
+</picture>
