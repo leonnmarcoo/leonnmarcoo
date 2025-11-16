@@ -26,42 +26,67 @@
 
 ## 💻 Tools & Languages:
 <p align="center">
+  <!-- JAVA -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  </a>
+  <!-- PYTHON -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
   </a>
+  <!-- SWIFT -->
+  <a target="_blank" href="https://www.flaticon.com/free-icon/swift_5968371">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Swift" width="42" height="42" />
+  </a>
+  <!-- JAVA SCRIPT -->
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+  </a>
+  <!-- HTML -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
   </a>
+  <!-- CSS -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
   </a>
+  <!-- GIT -->
+  <a target="_blank" href="https://commons.wikimedia.org/wiki/File:Git_icon.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/194px-Git_icon.svg.png?20220905010122" alt="git" width="42" height="42" />
+  <!-- GITHUB -->
+  <a target="_blank" href="https://github.com/logos">
+    <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="CSS3" width="42" height="42" />
+  <!-- VSCODE -->
+  <a target="_blank" href="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="CSS3" width="42" height="42" />
+  <!-- XCODE -->
+  <a target="_blank" href="https://developer.apple.com/xcode/">
+    <img src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-256x256_2x.png" alt="CSS3" width="42" height="42" />
+  <!-- MY SQL -->
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
   </a>
+  <!-- FIGMA -->
   <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
   </a>
+  <!-- FRAMER -->
   <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42" />
   </a>
+  <!-- AFFINITY -->
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/f/f5/Affinity_Photo_V2_icon.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Affinity_Photo_V2_icon.svg" alt="Affinity Photo" width="42" height="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/1024px-Affinity_%28App%29_Logo.svg.png?20251103223217" alt="Affinity Logo" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Affinity_Designer_2-logo.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Affinity_Designer_2-logo.svg" alt="Affinity Designer" width="42" height="42" />
-  </a>
+  <!-- NOTION -->
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="42" height="42" />
   </a>
+  <!-- PROCREATE -->
   <a target="_blank" href="https://i.namu.wiki/i/12DdQXpHHSrKeNkMI53ujhwl_rdVt0egw_9QtXqk0_1_Cds0hJQvCFgqFjPTGVY3J1x3OrJhY0HoZr-iaLPWZg.webp">
     <img src="https://i.namu.wiki/i/12DdQXpHHSrKeNkMI53ujhwl_rdVt0egw_9QtXqk0_1_Cds0hJQvCFgqFjPTGVY3J1x3OrJhY0HoZr-iaLPWZg.webp" alt="Procreate" width="42" height="42" />
   </a>
+  <!-- ASEPRITE -->
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="Aseprite" width="42" height="42" />
   </a>
