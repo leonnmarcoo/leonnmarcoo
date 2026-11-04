@@ -29,7 +29,7 @@ Numbered in the order I built them. The gaps are in storage.
 | <code>MK&nbsp;XI</code> | **[Payroll Calculator](https://github.com/leonnmarcoo/Employee-Payroll-Calculator)** | Estimates pay as you type and saves drafts to a local database. | React, TypeScript, SQLite |
 | <code>MK&nbsp;X</code> | **[Face Mask Detector](https://github.com/leonnmarcoo/CCDEPLRL_COM232_PROJECT)** | Spots masks worn, missing, or worn wrong from a photo or live webcam. | YOLOv8, Streamlit |
 | <code>MK&nbsp;IX</code> | **[DeFeed](https://github.com/leonnmarcoo/DeFeed)** | Comic-book iOS app where every scroll heals the villain, Dr. Doomscroll. Then it shows you the years the feed will take. | Swift, SwiftUI |
-| <code>MK&nbsp;IV</code> | **[OccuPie](https://github.com/leonnmarcoo/OccuPie)** | Predicts condo prices and occupancy demand, then has an LLM explain the numbers. [See the model.](https://github.com/leonnmarcoo/condo_price_prediction) | Python, scikit&#8209;learn |
+| <code>MK&nbsp;IV</code> | **[OccuPie](https://github.com/leonnmarcoo/OccuPie)** | Predicts condo prices with linear regression. [See the model.](https://github.com/leonnmarcoo/condo_price_prediction) | Python, scikit&#8209;learn |
 | <code>MK&nbsp;II</code> | **[Infinity Quest](https://github.com/leonnmarcoo/Infinity-Quest)** | Rate, review, and track the MCU by phase, release date, or timeline. | JavaFX, MySQL |
 | <code>MK&nbsp;I</code> | **[LionBites](https://github.com/leonnmarcoo/LionBites)** | Food ordering app inspired by GrabFood, with customer and admin sides. | JavaFX, MySQL |
 
