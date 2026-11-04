@@ -18,7 +18,14 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-      # Step 2: Generate the snake animations
+      # Step 2: Generate the diagnostics card
+      # Runs before the snake so dist/ belongs to the runner (the snake's Docker step writes as root)
+      - name: Generate Diagnostics Card
+        continue-on-error: true
+        run: python3 .github/scripts/diagnostics.py dist/diagnostics.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -31,12 +38,14 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 4: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          # Keep the last good card if the diagnostics step fails
+          keep_files: true
           # Optionally, you can set a custom commit message
           commit_message: "Update snake animation [skip ci]"
