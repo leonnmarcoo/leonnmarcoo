@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-labelledby="title">
+  <title id="title">Leon's Den workshop console: Leon Marco Devela, bio audit</title>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#6fe3ff" stroke-opacity=".07"/>
+    </pattern>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#f4fdff"/>
+      <stop offset=".62" stop-color="#b6f1ff"/>
+      <stop offset="1" stop-color="#4cc9f0"/>
+    </radialGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ring { transform-box: fill-box; transform-origin: center; }
+    .cw { animation: spin 26s linear infinite; }
+    .ccw { animation: spin 18s linear infinite reverse; }
+    .slow { animation: spin 60s linear infinite; }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; }
+    .boot { transform-box: fill-box; transform-origin: center; animation: boot 1s cubic-bezier(.2,.8,.2,1) both; }
+    .line { animation: line .45s ease-out both; }
+    .l0 { animation-delay: .3s; } .l1 { animation-delay: .9s; } .l2 { animation-delay: 1.5s; }
+    .l3 { animation-delay: 2.1s; } .l4 { animation-delay: 2.7s; }
+    .cursor { animation: blink 1.1s steps(2, jump-none) infinite; }
+    .label { fill: #f2b233; font-size: 15px; letter-spacing: 3px; }
+    .name { fill: #f4f7fa; font-size: 43px; font-weight: 700; }
+    .audit { fill: #74838f; font-size: 19px; }
+    .ok { fill: #6fe3ff; font-weight: 700; }
+    .wait { fill: #f2b233; font-weight: 700; }
+    .hot { fill: #ff5a5f; font-weight: 700; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse { 50% { opacity: .45; } }
+    @keyframes boot { from { opacity: 0; transform: scale(.82); } }
+    @keyframes line { from { opacity: 0; transform: translateX(-10px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect width="900" height="300" rx="14" fill="#0a0e14"/>
+  <rect width="900" height="300" rx="14" fill="url(#grid)"/>
+  <path d="M14 44V14H44M856 14H886V44M886 256V286H856M44 286H14V256" fill="none" stroke="#6fe3ff" stroke-opacity=".5" stroke-width="2"/>
+
+  <g transform="translate(160 150)">
+    <g class="boot">
+      <circle class="pulse" r="66" fill="#4cc9f0" fill-opacity=".55" filter="url(#blur)"/>
+      <circle class="ring slow" r="122" fill="none" stroke="#6fe3ff" stroke-opacity=".55" stroke-width="7" stroke-dasharray="1.6 8.85"/>
+      <circle class="ring ccw" r="108" fill="none" stroke="#f2b233" stroke-width="2.5" stroke-dasharray="118 51.6"/>
+      <circle class="ring cw" r="85" fill="none" stroke="#6fe3ff" stroke-width="20" stroke-dasharray="39 14.4"/>
+      <circle r="66" fill="none" stroke="#6fe3ff" stroke-opacity=".6" stroke-width="1.5"/>
+      <circle r="56" fill="url(#core)"/>
+      <!-- Lion mark -->
+      <path fill="#0a0e14" d="M0.0 -47.0L8.2 -36.1L20.4 -42.3L23.1 -28.9L36.7 -29.3L33.3 -16.1L45.8 -10.5L37.0 0.0L45.8 10.5L33.3 16.1L36.7 29.3L23.1 28.9L20.4 42.3L8.2 36.1L0.0 47.0L-8.2 36.1L-20.4 42.3L-23.1 28.9L-36.7 29.3L-33.3 16.1L-45.8 10.5L-37.0 0.0L-45.8 -10.5L-33.3 -16.1L-36.7 -29.3L-23.1 -28.9L-20.4 -42.3L-8.2 -36.1Z"/>
+      <path fill="#dff9ff" d="M0-29C13-29 24-20 24-5 24 9 13 25 0 31-13 25-24 9-24-5-24-20-13-29 0-29Z"/>
+      <g fill="#0a0e14">
+        <path d="M-17-9-5-5-7 0-15-3ZM17-9 5-5 7 0 15-3Z"/>
+        <path d="M-7 7H7L2 14H-2Z"/>
+      </g>
+      <path d="M0 13V19M0 19Q-5 24-11 19M0 19Q5 24 11 19" fill="none" stroke="#0a0e14" stroke-width="2.4" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <text class="label line l0" x="326" y="58">LEON'S DEN // WORKSHOP ONLINE</text>
+  <text class="name line l0" x="324" y="108">LEON MARCO DEVELA</text>
+  <path class="line l0" d="M326 128H854" stroke="#6fe3ff" stroke-opacity=".3"/>
+
+  <text class="audit line l1" x="326" y="164">genius ........... <tspan class="ok">VERIFIED</tspan></text>
+  <text class="audit line l2" x="326" y="196">billionaire ...... <tspan class="wait">PENDING</tspan> short by ~1B</text>
+  <text class="audit line l3" x="326" y="228">playboy .......... <tspan class="hot">COMMITTED</tspan> to main</text>
+  <text class="audit line l4" x="326" y="260">philanthropist ... <tspan class="ok">OPEN SOURCE</tspan><tspan class="cursor" fill="#6fe3ff" dx="6">█</tspan></text>
+</svg>
