@@ -22,7 +22,7 @@
 
   <text class="title" x="36" y="50">SUIT DIAGNOSTICS</text>
   <circle class="pulse" cx="600" cy="45" r="5" fill="#6fe3ff"/>
-  <text class="label" x="864" y="50" text-anchor="end">ONLINE // SCANNED 2026-11-10</text>
+  <text class="label" x="864" y="50" text-anchor="end">ONLINE // SCANNED 2026-11-11</text>
 
   <text class="big" x="36" y="108">196</text>
   <text class="label" x="120" y="92">CONTRIBUTIONS</text>
